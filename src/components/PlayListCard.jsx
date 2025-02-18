@@ -1,5 +1,5 @@
 import { Button } from "react-bootstrap";
-import NotFindAlbum from "./notFIndAlbum";
+import NotFindAlbum from "./NotFindAlbumm";
 import { useState, useEffect } from "react";
 
 const PlaylistCard = ({ data }) => {
